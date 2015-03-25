@@ -13,7 +13,7 @@ namespace Github1
         [STAThread]
         static void Main()
         {
-            //added comment
+            //added comment test
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
