@@ -14,6 +14,7 @@ namespace Github1
         static void Main()
         {
             //added comment test again
+            //added new comment line
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
